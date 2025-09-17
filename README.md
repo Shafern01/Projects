@@ -11,7 +11,7 @@ Each project explores different aspects of applied AI/ML — from **human-center
 **Dataset:** [UCI Adult Dataset](https://archive.ics.uci.edu/ml/datasets/adult)  
 **Focus:** Explainable AI (XAI), Fairness, Transparency  
 
-### 📖 Overview  
+### Overview  
 We developed a **human-centered framework** to assess the impact of XAI methods on fairness, interpretability, and usability.  
 Using the UCI Adult dataset (income prediction), we evaluated how methods like **SHAP**, **LIME**, and **PDP** reveal or mitigate bias — and whether explanations are meaningful to human decision-makers.  
 
@@ -27,7 +27,7 @@ Using the UCI Adult dataset (income prediction), we evaluated how methods like *
   - Modular Python framework: preprocessing, fairness metrics, XAI methods  
   - Dashboard for subgroup fairness + interpretability:contentReference[oaicite:3]{index=3}  
 
-### 🛠 Tools & Tech  
+### Tools & Tech  
 - Python (scikit-learn, SHAP, LIME, imbalanced-learn)  
 - Jupyter Notebooks  
 - JSON artifacts + visualization for interactive dashboards  
