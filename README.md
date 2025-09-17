@@ -73,8 +73,8 @@ We ran inference on both still images and live camera captures to evaluate **dom
 
 | Project              | Team                               | Dataset                 | Focus                           | Key Findings |
 |----------------------|------------------------------------|-------------------------|--------------------------------|--------------|
-| Human-Centered XAI   | Gary Brammer, Nathan Shafer, Vy Nguyen | UCI Adult               | Explainability & Fairness       | Detected systemic gender & race disparities; built fairness-aware XAI framework:contentReference[oaicite:9]{index=9}:contentReference[oaicite:10]{index=10} |
-| YOLOv8 Detection     | Nathan Shafer, Evan Sluterbeck     | BDD100k + Local Images  | Object Detection & Domain Shift | Achieved high precision (0.73) but lower recall (0.48); live testing showed strong environmental sensitivity:contentReference[oaicite:11]{index=11}:contentReference[oaicite:12]{index=12} |
+| Human-Centered XAI   | Gary Brammer, Nathan Shafer, Vy Nguyen | UCI Adult               | Explainability & Fairness       | Detected systemic gender & race disparities; built fairness-aware XAI framework |
+| YOLOv8 Detection     | Nathan Shafer, Evan Sluterbeck     | BDD100k + Local Images  | Object Detection & Domain Shift | Achieved high precision (0.73) but lower recall (0.48); live testing showed strong environmental sensitivity |
 
 ---
 
