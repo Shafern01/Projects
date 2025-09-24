@@ -1,4 +1,4 @@
-# 🎓 Undergraduate Projects Repository  
+# Undergraduate Projects Repository  
 
 This repository showcases two major machine learning projects completed during my undergraduate studies at **Bowling Green State University**.  
 
